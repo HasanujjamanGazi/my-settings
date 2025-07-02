@@ -7,10 +7,10 @@ All information that what settings I prefer to use.
 
 ## How to Use - 
 
-### 1. Copy the whole content from "settings.json" file from the "VSCODE" folder.
-### 2. Open VsCode & open command palette (ctrl + Shit + p). Search "Open User Setting (JSON)".
-### 3. Paste in user settings JSON file of vscode.
-### 4. Install the listed Extensions.
+#### 1. Copy the whole content from "settings.json" file from the "VSCODE" folder.
+#### 2. Open VsCode & open command palette (ctrl + Shit + p). Search "Open User Setting (JSON)".
+#### 3. Paste in user settings JSON file of vscode.
+#### 4. Install the listed Extensions.
     1. Aura Spirit Dracula Theme.
     2. Custom UI Style.
     3. Better Comments.

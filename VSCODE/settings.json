@@ -59,7 +59,7 @@
   "material-icon-theme.hidesExplorerArrows": true,
   // File indentation set
   "workbench.tree.indent": 16,
-  // Toggle stickyness on scrolling
+  // Toggle stickiness on scrolling
   "workbench.tree.enableStickyScroll": false,
   // Toggle indentation guides
   "workbench.tree.renderIndentGuides": "none",
@@ -72,7 +72,7 @@
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   // Terminal Font
   "terminal.integrated.fontFamily": "'JetBrainsMono NFM Medium', monospace",
-  // Output will show in terminal not in outut section
+  // Output will show in terminal not in output section
   "code-runner.runInTerminal": true,
   // GPU accelerated terminal
   "terminal.integrated.gpuAcceleration": "off",
@@ -81,7 +81,7 @@
   // Customizing Editor
   // Zoom the code with mouse Wheel
   "editor.mouseWheelZoom": true,
-  // Show inimap on the right
+  // Show Minimap on the right
   "editor.minimap.enabled": false,
   // Render White Space as Dot
   "editor.renderWhitespace": "all",

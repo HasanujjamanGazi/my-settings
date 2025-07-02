@@ -32,4 +32,4 @@ All information that what settings I prefer to use.
 
 
 
-<h2><center>🍁 Hasanujjaman Gazi 🍁</center></h2>
+<h2 style="text-align: center;">Hasanujjaman Gazi 🍁</h2>

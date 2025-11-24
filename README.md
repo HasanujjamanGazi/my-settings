@@ -1,13 +1,13 @@
-# SET-UPS BY I USE.
+## SET-UPS BY I USE.
 
 This is a repository that holds all of my Personal setups.
 All information that what settings I prefer to use.
 
-# VSCODE SETUP
+## VSCODE SETUP
 
 The "settings.json" file make the look and feel of the vs code a lot aesthetic and cleaner. It increases the productivity. It hides all the distractions and keeps only the commonly used parts.
 
-## How to Use - 
+### How to Use - 
 
 #### 1. Copy the whole content from "settings.json" file from the "VSCODE" folder.
 #### 2. Open VsCode & open command palette (ctrl + Shit + p). Search "Open User Setting (JSON)".

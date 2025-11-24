@@ -1,0 +1,144 @@
+{
+    "workbench.colorCustomizations": {
+      // Default Backgrounds
+      // Editor - #191521
+      // Sidebar - #14111b
+      // Terminal - #191521
+      // my colors 1
+      // "terminal.background": "#060f1b",
+      // "editor.background": "#060f1b",
+      // "sideBar.background": "#060f1b",
+      // "titleBar.activeBackground": "#060f1b",
+      // my colors 2
+      // "terminal.background": "#020817",
+      // "editor.background": "#020817",
+      // "sideBar.background": "#020817",
+      // "titleBar.activeBackground": "#020817",
+      // my colors 3
+      // "terminal.background": "#0d1423",
+      // "editor.background": "#0d1423",
+      // "sideBar.background": "#0d1423",
+      // "titleBar.activeBackground": "#0d1423",
+      "titleBar.activeBackground": "#1e1e2e",
+      "titleBar.activeForeground": "#cdd6f4",
+      "activityBar.background": "#181825",
+      "activityBar.foreground": "#cdd6f4",
+      "statusBar.background": "#181825",
+      "statusBar.foreground": "#cdd6f4"
+    },
+    // Tabs - Tab-Bar
+    "workbench.editor.showTabs": "single",
+    // Status-bar at the bottom
+    "workbench.statusBar.visible": false,
+    // Welcome Page is not shown on startup
+    "workbench.startupEditor": "none",
+    // Tips when no files are opened
+    "workbench.tips.enabled": false,
+    // Filepath on tab bar
+    "breadcrumbs.enabled": false,
+    // Dark or Light
+    "window.systemColorTheme": "dark",
+    // Choose default Theme of PC
+    "window.autoDetectColorScheme": false,
+    // Window Zoom
+    // "window.zoomLevel": 1,
+    // Customizing the Application font -- Apc Customize Ui++ extension
+    // Title Bar
+    // To on / start customizing the title bar
+    "window.titleBarStyle": "custom",
+    // Toggle layout buttons of top-right
+    "workbench.layoutControl.enabled": false,
+    // Toggle previous-next buttons
+    "workbench.navigationControl.enabled": false,
+    // Toggle open chat-copilot buttons
+    "chat.commandCenter.enabled": false,
+    // On empty file don't show hint
+    "workbench.editor.empty.hint": "hidden",
+    //Search Bar
+    "window.commandCenter": false,
+    // Activity Bar
+    // The File-Git-Extension-Bar
+    "workbench.activityBar.location": "hidden",
+    // Sidebar Customization
+    // Sidebar location
+    "workbench.sideBar.location": "right",
+    // Hide Arrows beside the folder
+    "material-icon-theme.hidesExplorerArrows": true,
+    // File indentation set
+    "workbench.tree.indent": 16,
+    // Toggle stickyness on scrolling
+    "workbench.tree.enableStickyScroll": false,
+    // Toggle indentation guides
+    "workbench.tree.renderIndentGuides": "none",
+    // Do not Show folder like folder1/folder2
+    "explorer.compactFolders": false,
+    // Customizing Terminal
+    // Default Terminal
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    // Terminal Font
+    "terminal.integrated.fontFamily": "'JetBrainsMono NFM Medium', monospace",
+    // Output will show in terminal not in outut section
+    "code-runner.runInTerminal": true,
+    // GPU accelerated terminal
+    "terminal.integrated.gpuAcceleration": "off",
+    // Customizing Editor
+    // Zoom the code with mouse Wheel
+    "editor.mouseWheelZoom": true,
+    // Show inimap on the right
+    "editor.minimap.enabled": false,
+    // Render White Space as Dot
+    "editor.renderWhitespace": "all",
+    // Editor Font
+    "editor.fontFamily": "'JetBrains Mono SemiBold', Consolas, 'Courier New', monospace",
+    // => Look Cool
+    "editor.fontLigatures": true,
+    // Code Font Size
+    "editor.fontSize": 18,
+    // Unique Cursor blinking
+    "editor.cursorBlinking": "expand",
+    // Sticky Scroll
+    "editor.stickyScroll.enabled": false,
+    // Configure Formatting - Languages
+    // HTML
+    "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+    },
+    // CSS
+    "[css]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+    },
+    // JavaScript
+    // Insert Semicolons
+    "javascript.format.semicolons": "insert",
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+    },
+    // C++
+    // "[cpp]": {
+    //   "editor.defaultFormatter": "ms-vscode.cpptools",
+    // },
+    // JSON
+    "[jsonc]": {
+      "editor.defaultFormatter": "vscode.json-language-features",
+    },
+    // Live Server
+    "liveServer.settings.donotVerifyTags": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    // Spellchecker
+    "cSpell.ignoreWords": [
+      "Gazi",
+      "Hasanujjaman",
+      "Panna"
+    ],
+    "workbench.secondarySideBar.defaultVisibility": "hidden",
+    "window.menuBarVisibility": "toggle",
+    "[javascriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.tabSize": 2,
+    "files.autoSave": "afterDelay",
+    "editor.formatOnSave": true,
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "workbench.iconTheme": "material-icon-theme",
+    // Others
+  }
